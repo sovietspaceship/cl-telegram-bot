@@ -1,5 +1,7 @@
 # Telegram Bot API for Common Lisp
 
+**NO LONGER MAINTAINED**: [please use this actively maintained fork](https://github.com/40ants/cl-telegram-bot)
+
 See the [Telegram Bot API](https://core.telegram.org/bots/api).
 
 This library uses [Drakma](http://weitz.de/drakma/) and [CL-JSON](https://common-lisp.net/project/cl-json/) with CLOS semantics.
